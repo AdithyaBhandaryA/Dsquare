@@ -1,0 +1,33 @@
+{
+  "development": {
+    "username": "root",
+    "password": "password",
+    "database": "dsquare",
+    "host": "localhost",
+    "dialect": "mysql",
+    "secretKey": "secretKey",
+    "sharedSecret": "dsquare;",
+    "ACCESS_TOKEN": "ascdsdcfdcdcd",
+    "OTP_EXPIRY_IN_MILLI_SECONDS":120000,
+    "MSG_SERVICE_CALL_EXPIRY": 1800000
+  },
+  "test": {
+    "username": "root",
+    "password": "password",
+    "database": "dsquare",
+    "host": "localhost",
+    "dialect": "mysql",
+    "secretKey": "secretKey",
+    "sharedSecret": "dsquare;"
+  },
+
+  "prod": {
+    "username": "root",
+    "password": "password",
+    "database": "dsquare",
+    "host": "localhost",
+    "dialect": "mysql",
+    "secretKey": "secretKey",
+    "sharedSecret": "dsquare;"
+   }
+}

@@ -1,0 +1,854 @@
+2021-06-27T06:28:32.432Z info: Environment: development
+2021-06-27T06:28:32.434Z info: Connection has been established successfully.
+2021-06-27T06:31:08.170Z info: Environment: development
+2021-06-27T06:31:08.174Z info: Connection has been established successfully.
+2021-06-27T06:31:25.687Z info: Access denied for user 'root'@'157.45.188.115' (using password: YES)
+2021-06-27T06:31:53.822Z info: Access denied for user 'root'@'157.45.188.115' (using password: YES)
+2021-06-27T06:32:26.831Z info: Access denied for user 'root'@'157.45.188.115' (using password: YES)
+2021-06-27T06:32:38.707Z info: Access denied for user 'root'@'157.45.188.115' (using password: YES)
+2021-06-27T06:32:45.607Z info: Environment: development
+2021-06-27T06:32:45.608Z info: Connection has been established successfully.
+2021-06-27T06:33:03.675Z info: Environment: development
+2021-06-27T06:33:03.677Z info: Connection has been established successfully.
+2021-06-27T06:33:14.332Z info: Environment: development
+2021-06-27T06:33:14.334Z info: Connection has been established successfully.
+2021-06-27T07:33:06.128Z info: Environment: development
+2021-06-27T07:33:06.130Z info: Connection has been established successfully.
+2021-06-27T07:39:38.960Z info: Environment: development
+2021-06-27T07:39:38.961Z info: Connection has been established successfully.
+2021-06-27T07:40:00.908Z info: Environment: development
+2021-06-27T07:40:00.910Z info: Connection has been established successfully.
+2021-06-27T07:40:31.080Z info: Environment: development
+2021-06-27T07:40:31.081Z info: Connection has been established successfully.
+2021-06-27T07:40:37.912Z info: Environment: development
+2021-06-27T07:40:37.913Z info: Connection has been established successfully.
+2021-06-27T07:41:15.235Z info: Environment: development
+2021-06-27T07:41:15.236Z info: Connection has been established successfully.
+2021-06-27T07:44:06.185Z info: Environment: development
+2021-06-27T07:44:06.186Z info: Connection has been established successfully.
+2021-06-27T07:44:23.023Z info: Environment: development
+2021-06-27T07:44:23.025Z info: Connection has been established successfully.
+2021-06-27T07:44:30.080Z info: Environment: development
+2021-06-27T07:44:30.082Z info: Connection has been established successfully.
+2021-06-27T07:44:49.096Z info: Environment: development
+2021-06-27T07:44:49.098Z info: Connection has been established successfully.
+2021-06-27T07:47:49.292Z info: Environment: development
+2021-06-27T07:47:49.293Z info: Connection has been established successfully.
+2021-06-27T07:48:45.551Z info: Environment: development
+2021-06-27T07:48:45.552Z info: Connection has been established successfully.
+2021-06-27T07:49:50.406Z info: Environment: development
+2021-06-27T07:49:50.407Z info: Connection has been established successfully.
+2021-06-27T07:50:07.190Z info: Environment: development
+2021-06-27T07:50:07.192Z info: Connection has been established successfully.
+2021-06-27T07:50:20.523Z info: Environment: development
+2021-06-27T07:50:20.525Z info: Connection has been established successfully.
+2021-06-27T07:50:59.071Z info: Environment: development
+2021-06-27T07:50:59.072Z info: Connection has been established successfully.
+2021-06-27T07:53:45.753Z info: Environment: development
+2021-06-27T07:53:45.756Z info: Connection has been established successfully.
+2021-06-27T07:53:54.241Z info: Environment: development
+2021-06-27T07:53:54.243Z info: Connection has been established successfully.
+2021-06-27T07:54:13.646Z info: Environment: development
+2021-06-27T07:54:13.648Z info: Connection has been established successfully.
+2021-06-27T07:54:27.667Z info: Environment: development
+2021-06-27T07:54:27.669Z info: Connection has been established successfully.
+2021-06-27T07:54:35.497Z info: Environment: development
+2021-06-27T07:54:35.498Z info: Connection has been established successfully.
+2021-06-27T07:54:53.978Z info: Environment: development
+2021-06-27T07:54:53.979Z info: Connection has been established successfully.
+2021-06-27T07:55:02.903Z info: Environment: development
+2021-06-27T07:55:02.905Z info: Connection has been established successfully.
+2021-06-27T07:55:14.072Z info: Controller: Inside generate otp method
+2021-06-27T07:55:14.073Z info: Service: Generate otp method
+2021-06-27T07:55:14.074Z error: Service: Error in generate otp method {}
+2021-06-27T07:55:14.074Z error: Controller: Error in Generate otp method  {"status":500}
+2021-06-27T07:59:18.798Z info: Environment: development
+2021-06-27T07:59:18.801Z info: Connection has been established successfully.
+2021-06-27T07:59:22.343Z info: Controller: Inside generate otp method
+2021-06-27T07:59:22.345Z info: Service: Generate otp method
+2021-06-27T07:59:22.347Z error: Service: Error in generate otp method {}
+2021-06-27T07:59:22.348Z error: Controller: Error in Generate otp method  {"status":500}
+2021-06-27T08:00:01.947Z info: Environment: development
+2021-06-27T08:00:01.948Z info: Connection has been established successfully.
+2021-06-27T08:00:14.345Z info: Controller: Inside generate otp method
+2021-06-27T08:00:14.346Z info: Service: Generate otp method
+2021-06-27T08:00:14.349Z error: Service: Error in generate otp method {}
+2021-06-27T08:00:14.351Z error: Controller: Error in Generate otp method  {"status":500}
+2021-06-27T08:00:31.861Z info: Environment: development
+2021-06-27T08:00:31.862Z info: Connection has been established successfully.
+2021-06-27T08:00:36.224Z info: Controller: Inside generate otp method
+2021-06-27T08:00:36.224Z info: Service: Generate otp method
+2021-06-27T08:00:36.225Z error: Controller: Error in Generate otp method  {"status":403,"message":"Invalid Access token.!"}
+2021-06-27T08:00:56.159Z info: Controller: Inside generate otp method
+2021-06-27T08:00:56.159Z info: Service: Generate otp method
+2021-06-27T08:00:56.160Z error: Controller: Error in Generate otp method  {"status":403,"message":"Invalid Access token.!"}
+2021-06-27T08:04:38.469Z info: Environment: development
+2021-06-27T08:04:38.471Z info: Connection has been established successfully.
+2021-06-27T08:04:43.509Z info: Controller: Inside generate otp method
+2021-06-27T08:04:43.510Z info: Service: Generate otp method
+2021-06-27T08:04:43.511Z error: Controller: Error in Generate otp method  {"status":423,"message":"Invalid Mobile Number.!"}
+2021-06-27T08:04:58.818Z info: Controller: Inside generate otp method
+2021-06-27T08:04:58.818Z info: Service: Generate otp method
+2021-06-27T08:04:58.819Z error: Controller: Error in Generate otp method  {"status":403,"message":"Invalid Access token.!"}
+2021-06-27T08:05:08.368Z info: Controller: Inside generate otp method
+2021-06-27T08:05:08.368Z info: Service: Generate otp method
+2021-06-27T08:05:08.368Z error: Controller: Error in Generate otp method  {"status":423,"message":"Invalid Mobile Number.!"}
+2021-06-27T08:05:18.835Z info: Controller: Inside generate otp method
+2021-06-27T08:05:18.835Z info: Service: Generate otp method
+2021-06-27T08:05:18.836Z error: Controller: Error in Generate otp method  {"status":423,"message":"Invalid Mobile Number.!"}
+2021-06-27T08:05:22.518Z info: Controller: Inside generate otp method
+2021-06-27T08:05:22.518Z info: Service: Generate otp method
+2021-06-27T08:05:22.523Z error: Service: Error in generate otp method {}
+2021-06-27T08:05:22.523Z error: Controller: Error in Generate otp method  {"status":500}
+2021-06-27T08:11:30.409Z info: Environment: development
+2021-06-27T08:11:30.410Z info: Connection has been established successfully.
+2021-06-27T08:12:24.935Z info: Environment: development
+2021-06-27T08:12:24.938Z info: Connection has been established successfully.
+2021-06-27T08:12:27.451Z info: Environment: development
+2021-06-27T08:12:27.453Z info: Connection has been established successfully.
+2021-06-27T08:12:48.123Z info: Environment: development
+2021-06-27T08:12:48.125Z info: Connection has been established successfully.
+2021-06-27T08:42:46.384Z info: Environment: development
+2021-06-27T08:42:46.386Z info: Connection has been established successfully.
+2021-06-27T08:42:57.086Z info: Environment: development
+2021-06-27T08:42:57.089Z info: Connection has been established successfully.
+2021-06-27T08:43:04.496Z info: Controller: Inside generate otp method
+2021-06-27T08:43:04.499Z info: Service: Generate otp method
+2021-06-27T08:43:04.500Z error: Service: Error in generate otp method {}
+2021-06-27T08:43:04.500Z error: Controller: Error in Generate otp method  {"status":500}
+2021-06-27T08:43:27.005Z info: Environment: development
+2021-06-27T08:43:27.006Z info: Connection has been established successfully.
+2021-06-27T08:45:30.247Z info: Environment: development
+2021-06-27T08:45:30.249Z info: Connection has been established successfully.
+2021-06-27T08:45:44.116Z info: Environment: development
+2021-06-27T08:45:44.117Z info: Connection has been established successfully.
+2021-06-27T08:45:46.899Z info: Environment: development
+2021-06-27T08:45:46.900Z info: Connection has been established successfully.
+2021-06-27T08:46:14.326Z info: Environment: development
+2021-06-27T08:46:14.328Z info: Connection has been established successfully.
+2021-06-27T08:46:31.362Z info: Environment: development
+2021-06-27T08:46:31.365Z info: Connection has been established successfully.
+2021-06-27T08:46:48.859Z info: Environment: development
+2021-06-27T08:46:48.860Z info: Connection has been established successfully.
+2021-06-27T08:46:51.894Z info: Environment: development
+2021-06-27T08:46:51.896Z info: Connection has been established successfully.
+2021-06-27T08:46:55.620Z info: Controller: Inside generate otp method
+2021-06-27T08:46:55.621Z info: Service: Generate otp method
+2021-06-27T08:46:55.627Z error: Service: Error in generate otp method {}
+2021-06-27T08:46:55.628Z error: Controller: Error in Generate otp method  {"status":500}
+2021-06-27T08:51:50.762Z info: Environment: development
+2021-06-27T08:51:50.764Z info: Connection has been established successfully.
+2021-06-27T08:51:53.805Z info: Environment: development
+2021-06-27T08:51:53.808Z info: Connection has been established successfully.
+2021-06-27T08:52:05.341Z info: Environment: development
+2021-06-27T08:52:05.344Z info: Connection has been established successfully.
+2021-06-27T08:52:10.251Z info: Controller: Inside generate otp method
+2021-06-27T08:52:10.253Z info: Service: Generate otp method
+2021-06-27T08:52:10.258Z error: Service: Error in generate otp method {}
+2021-06-27T08:52:10.259Z error: Controller: Error in Generate otp method  {"status":500}
+2021-06-27T08:53:06.241Z info: Environment: development
+2021-06-27T08:53:06.242Z info: Connection has been established successfully.
+2021-06-27T08:53:25.333Z info: Controller: Inside generate otp method
+2021-06-27T08:53:25.336Z info: Service: Generate otp method
+2021-06-27T08:53:25.343Z error: Controller: Error in Generate otp method  {"status":423,"message":"Invalid Mobile Number.!"}
+2021-06-27T08:53:31.740Z info: Controller: Inside generate otp method
+2021-06-27T08:53:31.741Z info: Service: Generate otp method
+2021-06-27T08:53:31.741Z error: Controller: Error in Generate otp method  {"status":423,"message":"Invalid Mobile Number.!"}
+2021-06-27T08:53:59.574Z info: Controller: Inside generate otp method
+2021-06-27T08:53:59.575Z info: Service: Generate otp method
+2021-06-27T08:53:59.576Z error: Controller: Error in Generate otp method  {"status":423,"message":"Invalid Mobile Number.!"}
+2021-06-27T08:54:08.517Z info: Environment: development
+2021-06-27T08:54:08.519Z info: Connection has been established successfully.
+2021-06-27T08:54:21.780Z info: Controller: Inside generate otp method
+2021-06-27T08:54:21.780Z info: Service: Generate otp method
+2021-06-27T08:54:21.784Z error: Service: Error in generate otp method {}
+2021-06-27T08:54:21.784Z error: Controller: Error in Generate otp method  {"status":500}
+2021-06-27T08:55:50.227Z info: Environment: development
+2021-06-27T08:55:50.230Z info: Connection has been established successfully.
+2021-06-27T08:59:17.964Z info: Environment: development
+2021-06-27T08:59:17.965Z info: Connection has been established successfully.
+2021-06-27T09:00:15.007Z info: Environment: development
+2021-06-27T09:00:15.008Z info: Connection has been established successfully.
+2021-06-27T09:00:52.794Z info: Environment: development
+2021-06-27T09:00:52.795Z info: Connection has been established successfully.
+2021-06-27T09:01:00.459Z info: Controller: Inside generate otp method
+2021-06-27T09:01:00.459Z info: Service: Generate otp method
+2021-06-27T09:01:00.467Z error: Service: Error in generate otp method {}
+2021-06-27T09:01:00.467Z error: Controller: Error in Generate otp method  {"status":500}
+2021-06-27T09:02:37.490Z info: Environment: development
+2021-06-27T09:02:37.491Z info: Connection has been established successfully.
+2021-06-27T09:03:05.192Z info: Environment: development
+2021-06-27T09:03:05.194Z info: Connection has been established successfully.
+2021-06-27T09:03:10.785Z info: Environment: development
+2021-06-27T09:03:10.787Z info: Connection has been established successfully.
+2021-06-27T09:03:16.135Z info: Environment: development
+2021-06-27T09:03:16.137Z info: Connection has been established successfully.
+2021-06-27T09:03:39.865Z info: Environment: development
+2021-06-27T09:03:39.866Z info: Connection has been established successfully.
+2021-06-27T09:03:55.684Z info: Environment: development
+2021-06-27T09:03:55.685Z info: Connection has been established successfully.
+2021-06-27T09:04:13.933Z info: Environment: development
+2021-06-27T09:04:13.935Z info: Connection has been established successfully.
+2021-06-27T09:04:53.365Z info: Environment: development
+2021-06-27T09:04:53.367Z info: Connection has been established successfully.
+2021-06-27T09:05:01.408Z info: Environment: development
+2021-06-27T09:05:01.409Z info: Connection has been established successfully.
+2021-06-27T09:05:32.575Z info: Environment: development
+2021-06-27T09:05:32.576Z info: Connection has been established successfully.
+2021-06-27T09:05:43.312Z info: Environment: development
+2021-06-27T09:05:43.313Z info: Connection has been established successfully.
+2021-06-27T09:05:52.027Z info: Controller: Inside generate otp method
+2021-06-27T09:05:52.028Z info: Service: Generate otp method
+2021-06-27T09:05:52.035Z info: Inside updateOTP method
+2021-06-27T09:07:47.731Z info: Environment: development
+2021-06-27T09:07:47.732Z info: Connection has been established successfully.
+2021-06-27T09:07:52.256Z info: Controller: Inside generate otp method
+2021-06-27T09:07:52.257Z info: Service: Generate otp method
+2021-06-27T09:07:52.264Z info: Inside updateOTP method
+2021-06-27T09:08:11.081Z info: Environment: development
+2021-06-27T09:08:11.083Z info: Connection has been established successfully.
+2021-06-27T09:09:27.475Z info: Environment: development
+2021-06-27T09:09:27.477Z info: Connection has been established successfully.
+2021-06-27T09:09:33.539Z info: Environment: development
+2021-06-27T09:09:33.541Z info: Connection has been established successfully.
+2021-06-27T09:09:42.144Z info: Controller: Inside generate otp method
+2021-06-27T09:09:42.145Z info: Service: Generate otp method
+2021-06-27T09:09:42.163Z info: Inside updateOTP method
+2021-06-27T09:10:08.692Z info: Environment: development
+2021-06-27T09:10:08.694Z info: Connection has been established successfully.
+2021-06-27T09:10:12.158Z info: Environment: development
+2021-06-27T09:10:12.160Z info: Connection has been established successfully.
+2021-06-27T09:10:54.976Z info: Environment: development
+2021-06-27T09:10:54.978Z info: Connection has been established successfully.
+2021-06-27T09:10:59.651Z info: Environment: development
+2021-06-27T09:10:59.653Z info: Connection has been established successfully.
+2021-06-27T09:11:06.331Z info: Controller: Inside generate otp method
+2021-06-27T09:11:06.332Z info: Service: Generate otp method
+2021-06-27T09:11:06.354Z info: Inside updateOTP method
+2021-06-27T09:11:19.855Z info: Environment: development
+2021-06-27T09:11:19.856Z info: Connection has been established successfully.
+2021-06-27T09:11:23.030Z info: Environment: development
+2021-06-27T09:11:23.032Z info: Connection has been established successfully.
+2021-06-27T09:11:30.985Z info: Controller: Inside generate otp method
+2021-06-27T09:11:30.986Z info: Service: Generate otp method
+2021-06-27T09:11:31.002Z info: Inside updateOTP method
+2021-06-27T09:12:13.303Z info: Environment: development
+2021-06-27T09:12:13.304Z info: Connection has been established successfully.
+2021-06-27T09:12:24.009Z info: Environment: development
+2021-06-27T09:12:24.011Z info: Connection has been established successfully.
+2021-06-27T09:12:29.422Z info: Environment: development
+2021-06-27T09:12:29.424Z info: Connection has been established successfully.
+2021-06-27T09:12:34.781Z info: Environment: development
+2021-06-27T09:12:34.783Z info: Connection has been established successfully.
+2021-06-27T09:12:38.184Z info: Controller: Inside generate otp method
+2021-06-27T09:12:52.372Z info: Environment: development
+2021-06-27T09:12:52.374Z info: Connection has been established successfully.
+2021-06-27T09:12:54.073Z info: Controller: Inside generate otp method
+2021-06-27T09:12:54.074Z info: Service: Generate otp method
+2021-06-30T04:19:55.909Z info: Environment: development
+2021-06-30T04:19:55.910Z info: Connection has been established successfully.
+2021-06-30T04:23:58.231Z info: Controller: Inside generate otp method
+2021-06-30T04:23:58.233Z info: Service: Generate otp method
+2021-06-30T04:25:17.461Z info: Environment: development
+2021-06-30T04:25:17.465Z info: Connection has been established successfully.
+2021-06-30T04:25:22.903Z info: Controller: Inside generate otp method
+2021-06-30T04:25:22.903Z info: Service: Generate otp method
+2021-06-30T04:25:55.619Z info: Environment: development
+2021-06-30T04:25:55.626Z info: Connection has been established successfully.
+2021-06-30T04:26:07.778Z info: Controller: Inside generate otp method
+2021-06-30T04:26:07.779Z info: Service: Generate otp method
+2021-06-30T04:26:26.215Z info: Environment: development
+2021-06-30T04:26:26.216Z info: Connection has been established successfully.
+2021-06-30T04:26:31.189Z info: Environment: development
+2021-06-30T04:26:31.191Z info: Connection has been established successfully.
+2021-06-30T04:26:33.575Z info: Controller: Inside generate otp method
+2021-06-30T04:26:33.579Z info: Service: Generate otp method
+2021-06-30T04:28:55.710Z info: Controller: Inside generate otp method
+2021-06-30T04:28:55.710Z info: Service: Generate otp method
+2021-06-30T04:29:58.533Z info: Environment: development
+2021-06-30T04:29:58.539Z info: Connection has been established successfully.
+2021-06-30T04:30:21.728Z info: Environment: development
+2021-06-30T04:30:21.730Z info: Connection has been established successfully.
+2021-06-30T04:31:17.319Z info: Controller: Inside generate otp method
+2021-06-30T04:31:17.320Z info: Service: Generate otp method
+2021-06-30T04:31:31.857Z info: Environment: development
+2021-06-30T04:31:31.859Z info: Connection has been established successfully.
+2021-06-30T04:32:33.516Z info: Controller: Inside generate otp method
+2021-06-30T04:32:33.516Z info: Service: Generate otp method
+2021-06-30T04:33:08.744Z info: Controller: Inside generate otp method
+2021-06-30T04:33:08.745Z info: Service: Generate otp method
+2021-06-30T04:34:13.555Z info: Environment: development
+2021-06-30T04:34:13.556Z info: Connection has been established successfully.
+2021-06-30T04:34:21.375Z info: Controller: Inside generate otp method
+2021-06-30T04:34:21.375Z info: Service: Generate otp method
+2021-06-30T04:36:12.891Z info: Environment: development
+2021-06-30T04:36:12.893Z info: Connection has been established successfully.
+2021-06-30T04:36:22.037Z info: Environment: development
+2021-06-30T04:36:22.040Z info: Connection has been established successfully.
+2021-06-30T04:36:24.207Z info: Controller: Inside generate otp method
+2021-06-30T04:36:24.208Z info: Service: Generate otp method
+2021-06-30T04:36:24.232Z info: Inside updateOTP method
+2021-06-30T04:36:44.240Z info: Controller: Inside generate otp method
+2021-06-30T04:36:44.242Z info: Service: Generate otp method
+2021-06-30T04:38:15.643Z info: Environment: development
+2021-06-30T04:38:15.645Z info: Connection has been established successfully.
+2021-06-30T04:38:30.559Z info: Environment: development
+2021-06-30T04:38:30.560Z info: Connection has been established successfully.
+2021-06-30T04:39:19.068Z info: Environment: development
+2021-06-30T04:39:19.070Z info: Connection has been established successfully.
+2021-06-30T04:39:59.636Z info: Environment: development
+2021-06-30T04:39:59.637Z info: Connection has been established successfully.
+2021-06-30T04:40:05.940Z info: Environment: development
+2021-06-30T04:40:05.942Z info: Connection has been established successfully.
+2021-06-30T04:40:30.447Z info: Environment: development
+2021-06-30T04:40:30.450Z info: Connection has been established successfully.
+2021-06-30T04:40:46.614Z info: Controller: Inside generate otp method
+2021-06-30T04:40:46.615Z info: Service: Generate otp method
+2021-06-30T04:40:46.636Z info: Inside saveOTP method
+2021-06-30T04:44:47.865Z info: Environment: development
+2021-06-30T04:44:47.868Z info: Connection has been established successfully.
+2021-06-30T04:45:54.798Z info: Environment: development
+2021-06-30T04:45:54.800Z info: Connection has been established successfully.
+2021-06-30T04:46:51.699Z info: Environment: development
+2021-06-30T04:46:51.701Z info: Connection has been established successfully.
+2021-06-30T04:47:27.018Z info: Environment: development
+2021-06-30T04:47:27.020Z info: Connection has been established successfully.
+2021-06-30T04:47:33.611Z info: Environment: development
+2021-06-30T04:47:33.613Z info: Connection has been established successfully.
+2021-06-30T04:47:36.597Z info: Controller: Inside generate otp method
+2021-06-30T04:47:36.599Z info: Service: Generate otp method
+2021-06-30T04:47:36.627Z info: Inside updateOTP method
+2021-06-30T04:47:46.606Z info: Controller: Inside generate otp method
+2021-06-30T04:47:46.608Z info: Service: Generate otp method
+2021-06-30T04:47:46.617Z info: Inside saveOTP method
+2021-06-30T04:48:04.044Z info: Controller: Inside generate otp method
+2021-06-30T04:48:04.046Z info: Service: Generate otp method
+2021-06-30T04:48:04.066Z info: Inside saveOTP method
+2021-06-30T04:48:05.959Z info: Controller: Inside generate otp method
+2021-06-30T04:48:05.960Z info: Service: Generate otp method
+2021-06-30T04:48:05.966Z info: Inside updateOTP method
+2021-06-30T04:48:19.797Z info: Environment: development
+2021-06-30T04:48:19.798Z info: Connection has been established successfully.
+2021-06-30T04:48:35.747Z info: Environment: development
+2021-06-30T04:48:35.749Z info: Connection has been established successfully.
+2021-06-30T04:48:40.594Z info: Environment: development
+2021-06-30T04:48:40.596Z info: Connection has been established successfully.
+2021-06-30T04:48:48.886Z info: Environment: development
+2021-06-30T04:48:48.888Z info: Connection has been established successfully.
+2021-06-30T04:49:01.656Z info: Environment: development
+2021-06-30T04:49:01.658Z info: Connection has been established successfully.
+2021-06-30T04:49:07.785Z info: Environment: development
+2021-06-30T04:49:07.788Z info: Connection has been established successfully.
+2021-06-30T04:53:39.754Z info: Environment: development
+2021-06-30T04:53:39.755Z info: Connection has been established successfully.
+2021-06-30T04:54:39.213Z info: Environment: development
+2021-06-30T04:54:39.214Z info: Connection has been established successfully.
+2021-06-30T04:54:47.787Z info: Environment: development
+2021-06-30T04:54:47.788Z info: Connection has been established successfully.
+2021-06-30T04:54:57.688Z info: Environment: development
+2021-06-30T04:54:57.690Z info: Connection has been established successfully.
+2021-06-30T04:55:35.453Z info: Environment: development
+2021-06-30T04:55:35.455Z info: Connection has been established successfully.
+2021-06-30T04:56:12.130Z info: Environment: development
+2021-06-30T04:56:12.131Z info: Connection has been established successfully.
+2021-06-30T04:56:20.257Z info: Environment: development
+2021-06-30T04:56:20.259Z info: Connection has been established successfully.
+2021-06-30T04:56:30.469Z info: Environment: development
+2021-06-30T04:56:30.470Z info: Connection has been established successfully.
+2021-06-30T04:56:47.585Z info: Environment: development
+2021-06-30T04:56:47.587Z info: Connection has been established successfully.
+2021-06-30T04:56:54.484Z info: Environment: development
+2021-06-30T04:56:54.486Z info: Connection has been established successfully.
+2021-06-30T04:57:07.345Z info: Environment: development
+2021-06-30T04:57:07.347Z info: Connection has been established successfully.
+2021-06-30T04:57:14.790Z info: Environment: development
+2021-06-30T04:57:14.792Z info: Connection has been established successfully.
+2021-06-30T04:57:26.827Z info: Environment: development
+2021-06-30T04:57:26.829Z info: Connection has been established successfully.
+2021-06-30T05:00:50.373Z info: Environment: development
+2021-06-30T05:00:50.374Z info: Connection has been established successfully.
+2021-06-30T05:00:53.279Z info: Controller: Inside generate otp method
+2021-06-30T05:00:53.282Z info: Service: Generate otp method
+2021-06-30T05:00:53.305Z info: Inside updateOTP method
+2021-06-30T05:01:38.238Z info: Environment: development
+2021-06-30T05:01:38.240Z info: Connection has been established successfully.
+2021-06-30T05:01:39.540Z info: Controller: Inside generate otp method
+2021-06-30T05:01:39.541Z info: Service: Generate otp method
+2021-06-30T05:01:39.562Z info: Inside updateOTP method
+2021-06-30T05:02:13.783Z info: Environment: development
+2021-06-30T05:02:13.785Z info: Connection has been established successfully.
+2021-06-30T05:02:17.036Z info: Controller: Inside generate otp method
+2021-06-30T05:02:17.038Z info: Service: Generate otp method
+2021-06-30T05:02:17.069Z info: Inside updateOTP method
+2021-06-30T05:02:25.081Z info: Environment: development
+2021-06-30T05:02:25.083Z info: Connection has been established successfully.
+2021-06-30T05:02:26.311Z info: Controller: Inside generate otp method
+2021-06-30T05:02:26.312Z info: Service: Generate otp method
+2021-06-30T05:02:26.331Z info: Inside updateOTP method
+2021-06-30T05:02:27.227Z info: Controller: Inside generate otp method
+2021-06-30T05:02:27.227Z info: Service: Generate otp method
+2021-06-30T05:02:27.232Z info: Inside updateOTP method
+2021-06-30T05:02:42.938Z info: Controller: Inside generate otp method
+2021-06-30T05:02:42.939Z info: Service: Generate otp method
+2021-06-30T05:02:42.948Z info: Inside saveOTP method
+2021-06-30T05:02:43.037Z error: Controller: Error in Generate otp method  {"status":400,"message":"Otp generation failed"}
+2021-06-30T05:02:48.199Z info: Controller: Inside generate otp method
+2021-06-30T05:02:48.199Z info: Service: Generate otp method
+2021-06-30T05:02:48.203Z info: Inside updateOTP method
+2021-06-30T05:03:31.917Z info: Environment: development
+2021-06-30T05:03:31.919Z info: Connection has been established successfully.
+2021-06-30T05:04:26.010Z info: Environment: development
+2021-06-30T05:04:26.011Z info: Connection has been established successfully.
+2021-06-30T05:04:34.096Z info: Controller: Inside generate otp method
+2021-06-30T05:04:34.098Z info: Service: Generate otp method
+2021-06-30T05:04:34.128Z info: Inside updateOTP method
+2021-06-30T05:04:42.039Z info: Controller: Inside generate otp method
+2021-06-30T05:04:42.039Z info: Service: Generate otp method
+2021-06-30T05:04:42.046Z info: Inside saveOTP method
+2021-06-30T05:04:42.089Z error: Service: Otp generation failed {}
+2021-06-30T05:04:42.091Z error: Controller: Error in Generate otp method  {"status":400,"message":"Otp generation failed"}
+2021-06-30T05:05:00.885Z info: Environment: development
+2021-06-30T05:05:00.886Z info: Connection has been established successfully.
+2021-06-30T05:06:23.669Z info: Environment: development
+2021-06-30T05:06:23.672Z info: Connection has been established successfully.
+2021-06-30T05:06:35.510Z info: Environment: development
+2021-06-30T05:06:35.512Z info: Connection has been established successfully.
+2021-06-30T05:06:39.998Z info: Environment: development
+2021-06-30T05:06:40.003Z info: Connection has been established successfully.
+2021-06-30T05:06:47.050Z info: Controller: Inside generate otp method
+2021-06-30T05:06:47.051Z info: Service: Generate otp method
+2021-06-30T05:06:47.073Z info: Inside saveOTP method
+2021-06-30T05:06:47.127Z error: Service: Otp generation failed {}
+2021-06-30T05:06:47.128Z error: Controller: Error in Generate otp method  {"status":400,"message":"Otp generation failed"}
+2021-06-30T05:07:51.071Z info: Environment: development
+2021-06-30T05:07:51.073Z info: Connection has been established successfully.
+2021-06-30T05:07:59.034Z info: Environment: development
+2021-06-30T05:07:59.036Z info: Connection has been established successfully.
+2021-06-30T05:08:03.686Z info: Environment: development
+2021-06-30T05:08:03.687Z info: Connection has been established successfully.
+2021-06-30T05:08:08.473Z info: Environment: development
+2021-06-30T05:08:08.474Z info: Connection has been established successfully.
+2021-06-30T05:08:30.436Z info: Controller: Inside generate otp method
+2021-06-30T05:08:30.437Z info: Service: Generate otp method
+2021-06-30T05:08:30.459Z info: Inside saveOTP method
+2021-06-30T05:08:47.245Z info: Environment: development
+2021-06-30T05:08:47.248Z info: Connection has been established successfully.
+2021-06-30T05:09:49.444Z info: Environment: development
+2021-06-30T05:09:49.445Z info: Connection has been established successfully.
+2021-06-30T05:10:41.279Z info: Environment: development
+2021-06-30T05:10:41.281Z info: Connection has been established successfully.
+2021-06-30T05:11:05.907Z info: Environment: development
+2021-06-30T05:11:05.910Z info: Connection has been established successfully.
+2021-06-30T05:11:46.273Z info: Environment: development
+2021-06-30T05:11:46.275Z info: Connection has been established successfully.
+2021-06-30T05:12:16.909Z info: Environment: development
+2021-06-30T05:12:16.910Z info: Connection has been established successfully.
+2021-06-30T05:12:48.578Z info: Environment: development
+2021-06-30T05:12:48.579Z info: Connection has been established successfully.
+2021-06-30T05:18:07.392Z info: Environment: development
+2021-06-30T05:18:07.394Z info: Connection has been established successfully.
+2021-06-30T05:19:59.183Z info: Environment: development
+2021-06-30T05:19:59.185Z info: Connection has been established successfully.
+2021-06-30T05:33:32.658Z info: Environment: development
+2021-06-30T05:33:32.660Z info: Connection has been established successfully.
+2021-06-30T05:33:48.731Z info: Controller: Inside generate otp method
+2021-06-30T05:33:48.732Z info: Service: Generate otp method
+2021-06-30T05:33:48.756Z info: Inside saveOTP method
+2021-06-30T05:34:07.780Z info: Controller: Inside verify otp method
+2021-06-30T05:34:07.781Z info: Service: Verify otp method
+2021-06-30T05:34:07.782Z error: Service: Error in Verify otp method {}
+2021-06-30T05:34:07.784Z error: Controller: Error in Verify otp method  {"status":500,"message":"Internal Server Error"}
+2021-06-30T05:34:42.902Z info: Environment: development
+2021-06-30T05:34:42.905Z info: Connection has been established successfully.
+2021-06-30T05:34:44.527Z info: Controller: Inside verify otp method
+2021-06-30T05:34:44.527Z info: Service: Verify otp method
+2021-06-30T05:34:44.529Z error: Service: Error in Verify otp method {}
+2021-06-30T05:34:44.536Z error: Controller: Error in Verify otp method  {"status":500,"message":"Internal Server Error"}
+2021-06-30T05:35:10.414Z info: Environment: development
+2021-06-30T05:35:10.416Z info: Connection has been established successfully.
+2021-06-30T05:35:14.838Z info: Controller: Inside verify otp method
+2021-06-30T05:35:14.839Z info: Service: Verify otp method
+2021-06-30T05:35:14.840Z error: Service: Error in Verify otp method {}
+2021-06-30T05:35:14.846Z error: Controller: Error in Verify otp method  {"status":500,"message":"Internal Server Error"}
+2021-06-30T05:35:37.355Z info: Environment: development
+2021-06-30T05:35:37.357Z info: Connection has been established successfully.
+2021-06-30T05:35:47.249Z info: Environment: development
+2021-06-30T05:35:47.252Z info: Connection has been established successfully.
+2021-06-30T05:35:49.471Z info: Controller: Inside verify otp method
+2021-06-30T05:35:49.473Z info: Service: Verify otp method
+2021-06-30T05:35:49.497Z error: Service: Error in verify otp method {}
+2021-06-30T05:35:49.500Z error: Controller: Error in Verify otp method  {"status":500,"message":"Internal Server Error"}
+2021-06-30T05:36:19.536Z info: Environment: development
+2021-06-30T05:36:19.537Z info: Connection has been established successfully.
+2021-06-30T05:36:36.789Z info: Environment: development
+2021-06-30T05:36:36.791Z info: Connection has been established successfully.
+2021-06-30T05:37:00.077Z info: Controller: Inside verify otp method
+2021-06-30T05:37:00.078Z info: Service: Verify otp method
+2021-06-30T05:37:00.079Z error: Controller: Error in Verify otp method  {"status":423,"message":"Invalid Mobile Number.!"}
+2021-06-30T05:37:08.420Z info: Controller: Inside verify otp method
+2021-06-30T05:37:08.420Z info: Service: Verify otp method
+2021-06-30T05:37:08.432Z error: Controller: Error in Verify otp method  {"status":422,"message":"Mobile number not found"}
+2021-06-30T05:37:39.284Z info: Controller: Inside verify otp method
+2021-06-30T05:37:39.285Z info: Service: Verify otp method
+2021-06-30T05:37:39.302Z error: Controller: Error in Verify otp method  {"status":422,"message":"Mobile number not found"}
+2021-06-30T05:37:56.185Z info: Controller: Inside verify otp method
+2021-06-30T05:37:56.186Z info: Service: Verify otp method
+2021-06-30T05:37:56.196Z error: Controller: Error in Verify otp method  {"status":422,"message":"Mobile number not found"}
+2021-06-30T05:38:07.897Z info: Environment: development
+2021-06-30T05:38:07.898Z info: Connection has been established successfully.
+2021-06-30T05:38:11.003Z info: Environment: development
+2021-06-30T05:38:11.004Z info: Connection has been established successfully.
+2021-06-30T05:38:15.278Z info: Environment: development
+2021-06-30T05:38:15.280Z info: Connection has been established successfully.
+2021-06-30T05:38:25.394Z info: Environment: development
+2021-06-30T05:38:25.396Z info: Connection has been established successfully.
+2021-06-30T05:38:49.214Z info: Controller: Inside generate otp method
+2021-06-30T05:38:49.216Z info: Service: Generate otp method
+2021-06-30T05:38:49.243Z info: Inside updateOTP method
+2021-06-30T05:39:04.835Z info: Controller: Inside verify otp method
+2021-06-30T05:39:04.836Z info: Service: Verify otp method
+2021-06-30T05:39:04.846Z error: Service: Error in verify otp method {}
+2021-06-30T05:39:04.848Z error: Controller: Error in Verify otp method  {"status":500,"message":"Internal Server Error"}
+2021-06-30T05:40:23.267Z info: Environment: development
+2021-06-30T05:40:23.269Z info: Connection has been established successfully.
+2021-06-30T05:40:25.479Z info: Controller: Inside verify otp method
+2021-06-30T05:40:25.482Z info: Service: Verify otp method
+2021-06-30T05:40:25.524Z error: Service: Error in verify otp method {}
+2021-06-30T05:40:25.524Z error: Controller: Error in Verify otp method  {"status":500,"message":"Internal Server Error"}
+2021-06-30T05:51:18.649Z info: Environment: development
+2021-06-30T05:51:18.650Z info: Connection has been established successfully.
+2021-06-30T05:51:23.388Z info: Environment: development
+2021-06-30T05:51:23.389Z info: Connection has been established successfully.
+2021-06-30T05:52:33.798Z info: Environment: development
+2021-06-30T05:52:33.799Z info: Connection has been established successfully.
+2021-06-30T05:53:05.297Z info: Environment: development
+2021-06-30T05:53:05.299Z info: Connection has been established successfully.
+2021-06-30T05:53:17.856Z info: Environment: development
+2021-06-30T05:53:17.857Z info: Connection has been established successfully.
+2021-06-30T05:53:24.197Z info: Environment: development
+2021-06-30T05:53:24.198Z info: Connection has been established successfully.
+2021-06-30T05:53:42.654Z info: Environment: development
+2021-06-30T05:53:42.656Z info: Connection has been established successfully.
+2021-06-30T05:53:57.507Z info: Environment: development
+2021-06-30T05:53:57.508Z info: Connection has been established successfully.
+2021-06-30T05:54:10.352Z info: Environment: development
+2021-06-30T05:54:10.353Z info: Connection has been established successfully.
+2021-06-30T05:54:15.891Z info: Controller: Inside verify otp method
+2021-06-30T05:54:15.891Z info: Service: Verify otp method
+2021-06-30T05:54:15.907Z error: Service: Error in verify otp method {"name":"SequelizeDatabaseError","parent":{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'user_id' in 'field list'","sql":"SELECT `id`, `user_id` AS `userId`, `user_name` AS `userName`, `first_name` AS `firstName`, `last_name` AS `lastName`, `age`, `phone_number` AS `phoneNumber`, `password`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `users` WHERE `users`.`phone_number` = '1725247797' LIMIT 1;"},"original":{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'user_id' in 'field list'","sql":"SELECT `id`, `user_id` AS `userId`, `user_name` AS `userName`, `first_name` AS `firstName`, `last_name` AS `lastName`, `age`, `phone_number` AS `phoneNumber`, `password`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `users` WHERE `users`.`phone_number` = '1725247797' LIMIT 1;"},"sql":"SELECT `id`, `user_id` AS `userId`, `user_name` AS `userName`, `first_name` AS `firstName`, `last_name` AS `lastName`, `age`, `phone_number` AS `phoneNumber`, `password`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `users` WHERE `users`.`phone_number` = '1725247797' LIMIT 1;"}
+2021-06-30T05:54:15.908Z error: Controller: Error in Verify otp method  {"status":500,"message":"Internal Server Error"}
+2021-06-30T05:55:23.672Z info: Environment: development
+2021-06-30T05:55:23.674Z info: Connection has been established successfully.
+2021-06-30T05:55:29.071Z info: Controller: Inside verify otp method
+2021-06-30T05:55:29.072Z info: Service: Verify otp method
+2021-06-30T05:59:52.063Z info: Environment: development
+2021-06-30T05:59:52.065Z info: Connection has been established successfully.
+2021-06-30T06:00:02.195Z info: Controller: Inside verify otp method
+2021-06-30T06:00:02.197Z info: Service: Verify otp method
+2021-06-30T06:01:14.999Z info: Controller: Inside verify otp method
+2021-06-30T06:01:14.999Z info: Service: Verify otp method
+2021-06-30T07:32:52.890Z info: Environment: development
+2021-06-30T07:32:52.891Z info: Connection has been established successfully.
+2021-06-30T07:33:02.226Z info: Controller: Inside verify otp method
+2021-06-30T07:33:02.227Z info: Service: Verify otp method
+2021-06-30T07:34:51.129Z info: Controller: Inside verify otp method
+2021-06-30T07:34:51.129Z info: Service: Verify otp method
+2021-06-30T07:35:31.262Z info: Environment: development
+2021-06-30T07:35:31.264Z info: Connection has been established successfully.
+2021-06-30T07:41:30.641Z info: Environment: development
+2021-06-30T07:41:30.644Z info: Connection has been established successfully.
+2021-06-30T07:42:01.544Z info: Environment: development
+2021-06-30T07:42:01.545Z info: Connection has been established successfully.
+2021-06-30T07:42:19.567Z info: Environment: development
+2021-06-30T07:42:19.569Z info: Connection has been established successfully.
+2021-06-30T07:42:45.247Z info: Environment: development
+2021-06-30T07:42:45.249Z info: Connection has been established successfully.
+2021-06-30T07:43:25.130Z info: Environment: development
+2021-06-30T07:43:25.131Z info: Connection has been established successfully.
+2021-06-30T07:44:30.210Z info: Environment: development
+2021-06-30T07:44:30.212Z info: Connection has been established successfully.
+2021-06-30T07:44:49.019Z info: Environment: development
+2021-06-30T07:44:49.020Z info: Connection has been established successfully.
+2021-06-30T07:44:55.671Z info: Environment: development
+2021-06-30T07:44:55.673Z info: Connection has been established successfully.
+2021-06-30T07:45:11.696Z info: Environment: development
+2021-06-30T07:45:11.698Z info: Connection has been established successfully.
+2021-06-30T07:49:00.064Z info: Environment: development
+2021-06-30T07:49:00.065Z info: Connection has been established successfully.
+2021-06-30T07:49:27.268Z info: Environment: development
+2021-06-30T07:49:27.270Z info: Connection has been established successfully.
+2021-06-30T07:49:45.801Z info: Environment: development
+2021-06-30T07:49:45.802Z info: Connection has been established successfully.
+2021-06-30T07:49:51.591Z info: Environment: development
+2021-06-30T07:49:51.592Z info: Connection has been established successfully.
+2021-06-30T07:50:38.996Z info: Environment: development
+2021-06-30T07:50:38.997Z info: Connection has been established successfully.
+2021-06-30T07:50:44.022Z info: Controller: Inside verify otp method
+2021-06-30T07:50:44.023Z info: Service: Verify otp method
+2021-06-30T07:50:44.038Z error: Service: Error in verify otp method {}
+2021-06-30T07:50:44.038Z error: Controller: Error in Verify otp method  {"status":500,"message":"Internal Server Error"}
+2021-06-30T07:51:24.311Z info: Environment: development
+2021-06-30T07:51:24.313Z info: Connection has been established successfully.
+2021-06-30T07:51:36.959Z info: Environment: development
+2021-06-30T07:51:36.960Z info: Connection has been established successfully.
+2021-06-30T07:51:43.707Z info: Controller: Inside verify otp method
+2021-06-30T07:51:43.708Z info: Service: Verify otp method
+2021-06-30T07:51:43.736Z error: Service: Error in verify otp method {}
+2021-06-30T07:51:43.737Z error: Controller: Error in Verify otp method  {"status":500,"message":"Internal Server Error"}
+2021-06-30T08:45:55.600Z info: Environment: development
+2021-06-30T08:45:55.602Z info: Connection has been established successfully.
+2021-06-30T08:46:22.272Z info: Environment: development
+2021-06-30T08:46:22.273Z info: Connection has been established successfully.
+2021-06-30T08:47:19.459Z info: Environment: development
+2021-06-30T08:47:19.461Z info: Connection has been established successfully.
+2021-06-30T08:47:34.513Z info: Environment: development
+2021-06-30T08:47:34.514Z info: Connection has been established successfully.
+2021-06-30T08:49:06.089Z info: Environment: development
+2021-06-30T08:49:06.090Z info: Connection has been established successfully.
+2021-06-30T08:49:19.676Z info: Environment: development
+2021-06-30T08:49:19.677Z info: Connection has been established successfully.
+2021-06-30T08:49:43.542Z info: Environment: development
+2021-06-30T08:49:43.544Z info: Connection has been established successfully.
+2021-06-30T08:50:07.818Z info: Environment: development
+2021-06-30T08:50:07.820Z info: Connection has been established successfully.
+2021-06-30T08:50:51.649Z info: Environment: development
+2021-06-30T08:50:51.651Z info: Connection has been established successfully.
+2021-06-30T08:51:18.190Z info: Environment: development
+2021-06-30T08:51:18.191Z info: Connection has been established successfully.
+2021-06-30T08:53:39.575Z info: Environment: development
+2021-06-30T08:53:39.577Z info: Connection has been established successfully.
+2021-06-30T08:55:51.990Z info: Environment: development
+2021-06-30T08:55:51.992Z info: Connection has been established successfully.
+2021-06-30T08:56:08.254Z info: Environment: development
+2021-06-30T08:56:08.255Z info: Connection has been established successfully.
+2021-06-30T08:56:15.453Z info: Environment: development
+2021-06-30T08:56:15.454Z info: Connection has been established successfully.
+2021-06-30T08:56:32.700Z info: Environment: development
+2021-06-30T08:56:32.701Z info: Connection has been established successfully.
+2021-06-30T08:56:49.876Z info: Environment: development
+2021-06-30T08:56:49.878Z info: Connection has been established successfully.
+2021-06-30T09:00:10.301Z info: Environment: development
+2021-06-30T09:00:10.302Z info: Connection has been established successfully.
+2021-06-30T09:00:28.392Z info: Controller: Inside verify otp method
+2021-06-30T09:00:28.393Z info: Service: Verify otp method
+2021-06-30T09:00:28.407Z error: Controller: Error in Verify otp method  {"status":422,"message":"Mobile number not found"}
+2021-06-30T09:00:37.867Z info: Controller: Inside generate otp method
+2021-06-30T09:00:37.868Z info: Service: Generate otp method
+2021-06-30T09:01:10.718Z info: Environment: development
+2021-06-30T09:01:10.721Z info: Connection has been established successfully.
+2021-06-30T09:01:18.983Z info: Controller: Inside generate otp method
+2021-06-30T09:01:18.987Z info: Service: Generate otp method
+2021-06-30T09:01:19.014Z info: Inside saveOTP method
+2021-06-30T09:01:21.808Z info: Controller: Inside generate otp method
+2021-06-30T09:01:21.808Z info: Service: Generate otp method
+2021-06-30T09:01:21.814Z info: Inside updateOTP method
+2021-06-30T09:01:22.424Z info: Controller: Inside generate otp method
+2021-06-30T09:01:22.427Z info: Service: Generate otp method
+2021-06-30T09:01:22.433Z info: Inside updateOTP method
+2021-06-30T09:01:45.989Z info: Controller: Inside verify otp method
+2021-06-30T09:01:45.990Z info: Service: Verify otp method
+2021-06-30T09:01:46.003Z error: Service: Error in verify otp method {}
+2021-06-30T09:01:46.004Z error: Controller: Error in Verify otp method  {"status":500,"message":"Internal Server Error"}
+2021-06-30T09:03:02.068Z info: Environment: development
+2021-06-30T09:03:02.070Z info: Connection has been established successfully.
+2021-06-30T09:03:10.102Z info: Environment: development
+2021-06-30T09:03:10.103Z info: Connection has been established successfully.
+2021-06-30T09:03:34.985Z info: Controller: Inside verify otp method
+2021-06-30T09:03:34.986Z info: Service: Verify otp method
+2021-06-30T09:03:35.007Z error: Service: Error in verify otp method {}
+2021-06-30T09:03:35.007Z error: Controller: Error in Verify otp method  {"status":500,"message":"Internal Server Error"}
+2021-06-30T09:04:11.261Z info: Environment: development
+2021-06-30T09:04:11.263Z info: Connection has been established successfully.
+2021-06-30T09:04:12.916Z info: Controller: Inside verify otp method
+2021-06-30T09:04:12.917Z info: Service: Verify otp method
+2021-06-30T09:04:12.938Z error: Service: Error in verify otp method {}
+2021-06-30T09:04:12.939Z error: Controller: Error in Verify otp method  {"status":500,"message":"Internal Server Error"}
+2021-06-30T09:04:24.824Z info: Environment: development
+2021-06-30T09:04:24.827Z info: Connection has been established successfully.
+2021-06-30T09:04:26.444Z info: Controller: Inside verify otp method
+2021-06-30T09:04:26.446Z info: Service: Verify otp method
+2021-06-30T09:04:26.463Z error: Controller: Error in Verify otp method  {"status":424,"message":"Otp expired.!"}
+2021-06-30T09:04:33.603Z info: Controller: Inside generate otp method
+2021-06-30T09:04:33.604Z info: Service: Generate otp method
+2021-06-30T09:04:33.615Z info: Inside updateOTP method
+2021-06-30T09:04:40.115Z info: Controller: Inside verify otp method
+2021-06-30T09:04:40.115Z info: Service: Verify otp method
+2021-06-30T09:04:40.125Z info: Inside saveOTP method
+2021-06-30T09:04:40.127Z info: Inside updateUserSession method
+2021-06-30T09:05:08.258Z info: Environment: development
+2021-06-30T09:05:08.260Z info: Connection has been established successfully.
+2021-06-30T09:05:10.449Z info: Controller: Inside verify otp method
+2021-06-30T09:05:10.450Z info: Service: Verify otp method
+2021-06-30T09:05:10.480Z info: Inside updateUserSession method
+2021-06-30T09:05:52.813Z info: Environment: development
+2021-06-30T09:05:52.814Z info: Connection has been established successfully.
+2021-06-30T09:05:57.160Z info: Controller: Inside verify otp method
+2021-06-30T09:05:57.160Z info: Service: Verify otp method
+2021-06-30T09:05:57.201Z info: Inside updateUserSession method
+2021-06-30T09:06:57.842Z info: Environment: development
+2021-06-30T09:06:57.844Z info: Connection has been established successfully.
+2021-06-30T09:07:09.816Z info: Controller: Inside verify otp method
+2021-06-30T09:07:09.817Z info: Service: Verify otp method
+2021-06-30T09:07:09.844Z error: Controller: Error in Verify otp method  {"status":424,"message":"Otp expired.!"}
+2021-06-30T09:07:15.208Z info: Controller: Inside generate otp method
+2021-06-30T09:07:15.210Z info: Service: Generate otp method
+2021-06-30T09:07:15.220Z info: Inside updateOTP method
+2021-06-30T09:07:21.034Z info: Controller: Inside verify otp method
+2021-06-30T09:07:21.034Z info: Service: Verify otp method
+2021-06-30T09:07:21.044Z info: Inside updateUserSession method
+2021-06-30T09:08:26.324Z info: Environment: development
+2021-06-30T09:08:26.326Z info: Connection has been established successfully.
+2021-06-30T09:08:28.645Z info: Controller: Inside verify otp method
+2021-06-30T09:08:28.647Z info: Service: Verify otp method
+2021-06-30T09:08:28.668Z info: Inside updateUserSession method
+2021-06-30T09:08:32.121Z info: Controller: Inside verify otp method
+2021-06-30T09:08:32.121Z info: Service: Verify otp method
+2021-06-30T09:08:32.127Z info: Inside updateUserSession method
+2021-06-30T09:08:45.589Z info: Environment: development
+2021-06-30T09:08:45.591Z info: Connection has been established successfully.
+2021-06-30T09:09:08.345Z info: Environment: development
+2021-06-30T09:09:08.346Z info: Connection has been established successfully.
+2021-06-30T09:09:49.924Z info: Environment: development
+2021-06-30T09:09:49.926Z info: Connection has been established successfully.
+2021-06-30T09:10:05.709Z info: Environment: development
+2021-06-30T09:10:05.710Z info: Connection has been established successfully.
+2021-06-30T09:10:11.856Z info: Environment: development
+2021-06-30T09:10:11.858Z info: Connection has been established successfully.
+2021-06-30T09:10:16.857Z info: Environment: development
+2021-06-30T09:10:16.859Z info: Connection has been established successfully.
+2021-06-30T09:11:02.658Z info: Environment: development
+2021-06-30T09:11:02.660Z info: Connection has been established successfully.
+2021-06-30T09:11:20.117Z info: Environment: development
+2021-06-30T09:11:20.118Z info: Connection has been established successfully.
+2021-06-30T09:11:48.490Z info: Environment: development
+2021-06-30T09:11:48.491Z info: Connection has been established successfully.
+2021-06-30T09:11:56.438Z info: Environment: development
+2021-06-30T09:11:56.440Z info: Connection has been established successfully.
+2021-06-30T09:12:13.601Z info: Environment: development
+2021-06-30T09:12:13.603Z info: Connection has been established successfully.
+2021-06-30T09:12:21.311Z info: Environment: development
+2021-06-30T09:12:21.312Z info: Connection has been established successfully.
+2021-06-30T09:12:29.557Z info: Environment: development
+2021-06-30T09:12:29.559Z info: Connection has been established successfully.
+2021-06-30T09:12:36.146Z info: Environment: development
+2021-06-30T09:12:36.148Z info: Connection has been established successfully.
+2021-06-30T09:12:42.833Z info: Environment: development
+2021-06-30T09:12:42.834Z info: Connection has been established successfully.
+2021-06-30T09:13:12.037Z info: Environment: development
+2021-06-30T09:13:12.039Z info: Connection has been established successfully.
+2021-06-30T09:13:17.980Z info: Environment: development
+2021-06-30T09:13:17.982Z info: Connection has been established successfully.
+2021-06-30T09:13:39.971Z info: Environment: development
+2021-06-30T09:13:39.972Z info: Connection has been established successfully.
+2021-06-30T09:13:46.142Z info: Environment: development
+2021-06-30T09:13:46.144Z info: Connection has been established successfully.
+2021-06-30T09:13:57.496Z info: Controller: Inside verify otp method
+2021-06-30T09:13:57.497Z info: Service: Verify otp method
+2021-06-30T09:13:57.536Z error: Controller: Error in Verify otp method  {"status":424,"message":"Otp expired.!"}
+2021-06-30T09:14:01.035Z info: Controller: Inside generate otp method
+2021-06-30T09:14:01.036Z info: Service: Generate otp method
+2021-06-30T09:14:01.052Z info: Inside updateOTP method
+2021-06-30T09:14:08.070Z info: Controller: Inside verify otp method
+2021-06-30T09:14:08.070Z info: Service: Verify otp method
+2021-06-30T09:14:08.084Z info: Inside createUserSession method
+2021-06-30T09:14:34.844Z info: Environment: development
+2021-06-30T09:14:34.845Z info: Connection has been established successfully.
+2021-06-30T09:14:39.030Z info: Controller: Inside verify otp method
+2021-06-30T09:14:39.032Z info: Service: Verify otp method
+2021-06-30T09:14:39.057Z info: Inside createUserSession method
+2021-06-30T09:23:46.576Z info: Environment: development
+2021-06-30T09:23:46.578Z info: Connection has been established successfully.
+2021-06-30T09:23:49.648Z info: Controller: Inside verify otp method
+2021-06-30T09:23:49.649Z info: Service: Verify otp method
+2021-06-30T09:23:49.667Z error: Controller: Error in Verify otp method  {"status":424,"message":"Otp expired.!"}
+2021-06-30T09:23:54.053Z info: Controller: Inside generate otp method
+2021-06-30T09:23:54.053Z info: Service: Generate otp method
+2021-06-30T09:23:54.062Z info: Inside updateOTP method
+2021-06-30T09:24:01.220Z info: Controller: Inside verify otp method
+2021-06-30T09:24:01.221Z info: Service: Verify otp method
+2021-06-30T09:24:01.232Z info: Inside createUserSession method
+2021-06-30T09:24:29.121Z info: Controller: Inside verify otp method
+2021-06-30T09:24:29.122Z info: Service: Verify otp method
+2021-06-30T09:24:29.135Z info: Inside createUserSession method
+2021-06-30T09:24:36.892Z info: Environment: development
+2021-06-30T09:24:36.894Z info: Connection has been established successfully.
+2021-06-30T09:24:54.458Z info: Controller: Inside verify otp method
+2021-06-30T09:24:54.460Z info: Service: Verify otp method
+2021-06-30T09:24:54.489Z info: Inside createUserSession method
+2021-06-30T09:24:57.092Z info: Controller: Inside verify otp method
+2021-06-30T09:24:57.092Z info: Service: Verify otp method
+2021-06-30T09:24:57.100Z info: Inside createUserSession method
+2021-06-30T09:24:57.985Z info: Controller: Inside verify otp method
+2021-06-30T09:24:57.987Z info: Service: Verify otp method
+2021-06-30T09:24:57.998Z info: Inside createUserSession method
+2021-06-30T09:24:58.583Z info: Controller: Inside verify otp method
+2021-06-30T09:24:58.583Z info: Service: Verify otp method
+2021-06-30T09:24:58.596Z info: Inside createUserSession method
+2021-06-30T09:24:59.207Z info: Controller: Inside verify otp method
+2021-06-30T09:24:59.207Z info: Service: Verify otp method
+2021-06-30T09:24:59.214Z info: Inside createUserSession method
+2021-06-30T09:24:59.778Z info: Controller: Inside verify otp method
+2021-06-30T09:24:59.778Z info: Service: Verify otp method
+2021-06-30T09:24:59.789Z info: Inside createUserSession method
+2021-06-30T09:25:00.368Z info: Controller: Inside verify otp method
+2021-06-30T09:25:00.368Z info: Service: Verify otp method
+2021-06-30T09:25:00.376Z info: Inside createUserSession method
+2021-06-30T09:25:01.294Z info: Controller: Inside verify otp method
+2021-06-30T09:25:01.294Z info: Service: Verify otp method
+2021-06-30T09:25:01.302Z info: Inside createUserSession method
+2021-06-30T09:27:13.593Z info: Environment: development
+2021-06-30T09:27:13.594Z info: Connection has been established successfully.
+2021-06-30T09:27:29.407Z info: Environment: development
+2021-06-30T09:27:29.408Z info: Connection has been established successfully.
+2021-06-30T09:28:18.622Z info: Environment: development
+2021-06-30T09:28:18.624Z info: Connection has been established successfully.
+2021-06-30T09:28:21.718Z info: Controller: Inside verify otp method
+2021-06-30T09:28:21.719Z info: Service: Verify otp method
+2021-06-30T09:28:21.735Z error: Controller: Error in Verify otp method  {"status":424,"message":"Otp expired.!"}
+2021-06-30T09:28:25.670Z info: Controller: Inside generate otp method
+2021-06-30T09:28:25.671Z info: Service: Generate otp method
+2021-06-30T09:28:25.679Z info: Inside updateOTP method
+2021-06-30T09:28:32.692Z info: Controller: Inside verify otp method
+2021-06-30T09:28:32.694Z info: Service: Verify otp method
+2021-06-30T09:28:32.734Z info: Inside createUserSession method
+2021-06-30T09:29:40.430Z info: Environment: development
+2021-06-30T09:29:40.433Z info: Connection has been established successfully.
+2021-06-30T09:34:43.789Z info: Environment: development
+2021-06-30T09:34:43.791Z info: Connection has been established successfully.
+2021-06-30T09:35:47.830Z info: Environment: development
+2021-06-30T09:35:47.831Z info: Connection has been established successfully.
+2021-06-30T09:37:14.546Z info: Environment: development
+2021-06-30T09:37:14.547Z info: Connection has been established successfully.
+2021-06-30T09:37:24.499Z info: Environment: development
+2021-06-30T09:37:24.500Z info: Connection has been established successfully.
+2021-06-30T09:37:28.835Z info: Controller: Inside verify otp method
+2021-06-30T09:37:28.835Z info: Service: Verify otp method
+2021-06-30T09:37:28.850Z error: Controller: Error in Verify otp method  {"status":424,"message":"Otp expired.!"}
+2021-06-30T09:37:33.648Z info: Controller: Inside generate otp method
+2021-06-30T09:37:33.649Z info: Service: Generate otp method
+2021-06-30T09:37:33.657Z info: Inside updateOTP method
+2021-06-30T09:37:43.101Z info: Controller: Inside verify otp method
+2021-06-30T09:37:43.104Z info: Service: Verify otp method
+2021-06-30T09:37:43.126Z info: Inside createUserSession method
+2021-06-30T09:37:54.505Z info: Environment: development
+2021-06-30T09:37:54.507Z info: Connection has been established successfully.
+2021-06-30T09:38:50.754Z info: Environment: development
+2021-06-30T09:38:50.755Z info: Connection has been established successfully.
+2021-06-30T09:39:58.804Z info: Environment: development
+2021-06-30T09:39:58.806Z info: Connection has been established successfully.
+2021-06-30T09:40:09.679Z info: Environment: development
+2021-06-30T09:40:09.681Z info: Connection has been established successfully.
+2021-06-30T09:40:51.892Z info: Environment: development
+2021-06-30T09:40:51.893Z info: Connection has been established successfully.
+2021-06-30T09:41:08.523Z info: Environment: development
+2021-06-30T09:41:08.524Z info: Connection has been established successfully.
+2021-06-30T09:41:39.068Z info: Environment: development
+2021-06-30T09:41:39.069Z info: Connection has been established successfully.
+2021-06-30T09:41:52.797Z info: Environment: development
+2021-06-30T09:41:52.799Z info: Connection has been established successfully.
+2021-06-30T09:42:00.906Z info: Environment: development
+2021-06-30T09:42:00.908Z info: Connection has been established successfully.
+2021-06-30T09:42:04.505Z info: Environment: development
+2021-06-30T09:42:04.507Z info: Connection has been established successfully.
+2021-06-30T09:42:22.856Z info: Environment: development
+2021-06-30T09:42:22.857Z info: Connection has been established successfully.

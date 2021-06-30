@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "sql12366559",
+    "password": "TRVY1eH9Ic",
+    "database": "sql12366559",
+    "host": "sql12.freemysqlhosting.net",
+    "dialect": "mysql",
+    "sharedSecret":"y@ntr@t@ntr@"
+  },
+  "test": {
+    "username": "root",
+    "password": "",
+    "database": "yantra_tantra",
+    "host": "localhost",
+    "dialect": "mysql",
+    "sharedSecret":"y@ntr@t@ntr@"
+  },
+  "production": {
+    "username": "root",
+    "password": "",
+    "database": "yantra_tantra",
+    "host": "localhost",
+    "dialect": "mysql",
+    "sharedSecret":"y@ntr@t@ntr@"
+  }
+}
